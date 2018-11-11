@@ -3,7 +3,7 @@
 this package was created with the intent of teaching how to make integrations into Cisco Webex Chat system. 
 
 ### What does this do?
-This specific integration will allow you to add a user and add a score to that user and also see all of the users that you have created and their scores. The way that it works is by providing you with a list of commands that you can tell it. You can access that list by typing `/help` and the chatbot will respond with a list of things that it can accept. The chatbot `listens` for those commands and when it `hears` any of those commands it will do the work that is required of it. some of the commands also require some parameters and unless you provide the bot with those parameters it will not be able to performt those commands correctly.
+This specific integration will allow you to add a user and add a score to that user and also see all of the users that you have created and their scores. The way that it works is by providing you with a list of commands that you can tell it. You can access that list by typing `/help` and the chatbot will respond with a list of things that it can accept. The chatbot `listens` for those commands and when it `hears` any of those commands it will do the work that is required of it. some of the commands also require some parameters and unless you provide the bot with those parameters it will not be able to perform those commands correctly.
 
 ## Installation
 
